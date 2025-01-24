@@ -9,7 +9,7 @@ nijiAI is a modern, responsive AI chat assistant built with React, TypeScript, a
 
 - 🤖 Real-time AI chat interactions
 - 🔐 Secure authentication system
-- 💾 Persistent conversation history
+- 💾 Persistent conversation history - AI -Memory
 - 📱 Responsive design for all devices
 - 🎨 Beautiful, modern UI with animations
 - 🌙 Clean, minimalist interface
